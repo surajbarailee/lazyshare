@@ -2,6 +2,9 @@
 
 **LazyFileShare** is a lightweight, blazing-fast Node.js file-sharing server for LAN networks. Share images, videos, and other files from any folder on your computer — accessible instantly from any device on your local Wi-Fi.
 
+
+![1752320770622](image/README/1752320770622.png)
+
 > 📡 Turn your PC into a personal media server – no setup, no cloud, just local and instant.
 
 ---
@@ -112,6 +115,3 @@ npm start
 
 [Suraj Barailee](https://github.com/surajbarailee)
 
-## **This is how it looks**
-
-![1752320770622](image/README/1752320770622.png)
