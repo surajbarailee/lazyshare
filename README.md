@@ -111,3 +111,7 @@ npm start
 ## 👤 Author
 
 [Suraj Barailee](https://github.com/surajbarailee)
+
+## **This is how it looks**
+
+![1752320770622](image/README/1752320770622.png)
