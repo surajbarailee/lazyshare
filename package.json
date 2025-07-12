@@ -1,5 +1,5 @@
 {
-  "name": "lazyshare",
+  "name": "LazyFileShare",
   "version": "1.0.0",
   "description": "A simple file sharing server for LAN",
   "main": "server.js",

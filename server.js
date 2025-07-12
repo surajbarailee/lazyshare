@@ -51,7 +51,7 @@ app.use(errorHandler);
 // Start the server
 app.listen(SERVER_CONFIG.port, SERVER_CONFIG.host, () => {
     console.log(`
-🚀 LazyShare Server Started!
+🚀 LazyFileShare Server Started!
     
 📁 Shared Folder: ${sharedFolderPath}
 🌐 Server URL: http://localhost:${SERVER_CONFIG.port}

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "========================================"
-echo "           LazyShare Server"
+echo "           LazyFileShare Server"
 echo "========================================"
 echo
 
@@ -13,7 +13,7 @@ if [ -z "$1" ]; then
     exit 1
 fi
 
-echo "Starting LazyShare server..."
+echo "Starting LazyFileShare server..."
 echo "Shared folder: $1"
 echo
 echo "Server will be available at:"

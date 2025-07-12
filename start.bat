@@ -1,6 +1,6 @@
 @echo off
 echo ========================================
-echo           LazyShare Server
+echo           LazyFileShare Server
 echo ========================================
 echo.
 
@@ -13,7 +13,7 @@ if "%1"=="" (
     exit /b 1
 )
 
-echo Starting LazyShare server...
+echo Starting LazyFileShare server...
 echo Shared folder: %1
 echo.
 echo Server will be available at:

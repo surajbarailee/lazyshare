@@ -1,6 +1,6 @@
-# LazyShare – Node.js Local File Sharing Server
+# LazyFileShare – Node.js Local File Sharing Server
 
-**LazyShare** is a lightweight, blazing-fast Node.js file-sharing server for LAN networks. Share images, videos, and other files from any folder on your computer — accessible instantly from any device on your local Wi-Fi.
+**LazyFileShare** is a lightweight, blazing-fast Node.js file-sharing server for LAN networks. Share images, videos, and other files from any folder on your computer — accessible instantly from any device on your local Wi-Fi.
 
 > 📡 Turn your PC into a personal media server – no setup, no cloud, just local and instant.
 
@@ -41,7 +41,7 @@ Then open your browser:
 ## 📁 Project Structure
 
 ```
-lazyshare/
+LazyFileShare/
 ├── server.js              # Main server entry point
 ├── package.json           # Dependencies and scripts
 ├── public/
